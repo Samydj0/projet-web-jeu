@@ -1,0 +1,48 @@
+body{
+    background-image: url('goodfond.jpg');
+    background-repeat: no-repeat ;
+    background-size: cover ;
+}
+@font-face{
+    font-family: 'Antique Quest St';
+    src: url('font/AntiqueQuestSt.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+#push{
+    margin-top: 1%;
+    margin-left: 27%;
+    margin-right: 27%;
+    height: auto;
+    width:  auto;
+}
+#text {
+    font-family: 'Immortal';
+    font-size: 60px;
+    position: static;
+    margin-left: 27%;
+    margin-right: 27%;
+    height: auto;
+    width:  auto;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Antique Quest St';
+}
+.bouton{
+    position: absolute;
+    left: 45%;
+    border: 3px solid hsl(0, 0%, 0%);
+    height: 140px;
+    width: 140px;
+}
+
+@font-face{
+    font-family: 'Immortal';
+    src: url('font/IMMORTAL.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
